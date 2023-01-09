@@ -154,6 +154,20 @@
     position: absolute;
 }
 
+/* Motivation style */
+.motivation{
+    background-color: bisque;
+    margin: 5%;
+    padding: 30px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: rgba(255, 235, 205, 0.562);
+}
+li{
+    margin-top: 20px;
+    font-size: larger;
+}
+
 
 /* Contact Style */
 .contact-title {
